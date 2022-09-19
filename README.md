@@ -1,7 +1,7 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://static.vecteezy.com/system/resources/previews/002/949/141/non_2x/programming-code-coding-or-hacker-background-vector.jpg)
+<img align="center" src="https://static.vecteezy.com/system/resources/previews/002/949/141/non_2x/programming-code-coding-or-hacker-background-vector.jpg">
 <h1 align="center">Hi 👋, I'm Divas Sahu</h1>
 <h3 align="center">A passionate backend developer, looking to solve real world problem, I have passion for learning and sharing my knowledge with others.</h3>
-(img align="right" alt="Coding" width="400" src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif")
+<img align="right" alt="Coding" width="400" src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divassahu&label=Profile%20views&color=0e75b6&style=flat" alt="divassahu" /> </p>
 
