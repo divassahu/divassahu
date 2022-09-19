@@ -1,4 +1,4 @@
-<img align="center" src="https://static.vecteezy.com/system/resources/previews/002/949/141/non_2x/programming-code-coding-or-hacker-background-vector.jpg">
+<img width="700" height="200" src="https://static.vecteezy.com/system/resources/previews/002/949/141/non_2x/programming-code-coding-or-hacker-background-vector.jpg">
 <h1 align="center">Hi 👋, I'm Divas Sahu</h1>
 <h3 align="center">A passionate backend developer, looking to solve real world problem, I have passion for learning and sharing my knowledge with others.</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
