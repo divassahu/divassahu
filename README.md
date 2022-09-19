@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **Spring**
 
-- 👨‍💻 All of my projects are available at [divassahu.github.io](divassahu.github.io)
+- 👨‍💻 All of my projects are available at [Portfolio](divassahu.github.io)
 
 - 💬 Ask me about **Core and Advance Java, Spring, Javascript**
 
 - 📫 How to reach me **divassahu@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1cLSbShEwJ2IeB4hYob7bZyg-m-2MqPjo/view?usp=sharing](https://drive.google.com/file/d/1cLSbShEwJ2IeB4hYob7bZyg-m-2MqPjo/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1cLSbShEwJ2IeB4hYob7bZyg-m-2MqPjo/view?usp=sharing)
 
 - ⚡ Fun fact **I am funny for funny people.**
 
