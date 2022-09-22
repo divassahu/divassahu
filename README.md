@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1cLSbShEwJ2IeB4hYob7bZyg-m-2MqPjo/view?usp=sharing)
 
-- ⚡ Fun fact **I am funny for funny people.**
+- ⚡ Fun fact **It took less code to send a man to the Moon than to run a smartphone.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
