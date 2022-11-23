@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Spring**
 
-- 👨‍💻 All of my projects are available at [Portfolio](divassahu.github.io)
+- 👨‍💻 All of my projects are available at [Portfolio](https://divassahu.github.io/)
 
 - 💬 Ask me about **Core and Advance Java, Spring, Javascript**
 
