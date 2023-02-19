@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **divassahu@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://github.com/divassahu/Divas_Sahu_resume/raw/main/Divas_Sahu_Resume.pdf)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1zd__PU9E_AgPg0lechIh-iIqiCNt-7id/view?usp=sharing)
 
 - ⚡ Fun fact **It took less code to send a man to the Moon than to run a smartphone.**
 
