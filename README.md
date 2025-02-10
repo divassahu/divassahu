@@ -1,6 +1,6 @@
 <img width="1200" height="200" src="https://static.vecteezy.com/system/resources/previews/002/949/141/non_2x/programming-code-coding-or-hacker-background-vector.jpg">
 <h1 align="center">Hi 👋, I'm Divas Sahu</h1>
-<h3 align="center">A passionate backend developer, looking to solve real world problem, I have passion for learning and sharing my knowledge with others.</h3>
+<h3 align="center">A passionate Flutter developer, looking to solve real world problem, I have passion for learning and sharing my knowledge with others.</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=divassahu&label=Profile%20views&color=0e75b6&style=flat" alt="divassahu" /> </p>
@@ -9,11 +9,11 @@
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://divassahu.github.io/)
 
-- 💬 Ask me about **Core and Advance Java, Spring, Javascript**
+- 💬 Ask me about **App Development, Flutter, Dart**
 
 - 📫 How to reach me **divassahu@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1zd__PU9E_AgPg0lechIh-iIqiCNt-7id/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1G-dmanzee4LXTDajmGimB4kVBOhglP61/view?usp=sharing)
 
 - ⚡ Fun fact **It took less code to send a man to the Moon than to run a smartphone.**
 
